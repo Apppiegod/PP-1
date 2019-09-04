@@ -105,6 +105,47 @@ body {
 
 /*HEADER CONTENT*/
 
+/*ABOUT SECTION*/
+.about {
+    display: flex;
+    flex-direction: row;
+    margin: 12vh 7vw;
+}
+.about__left-side {
+    width: 50vw;
+}
+.about__title {
+    font-weight: 700;
+    font-size: 2.875em;
+    color: #7a7a7a;
+    width: 22.5vw;
+    font-family: 'Asap', sans-serif;
+    margin-bottom: 0;
+    margin-top: 10vh;
+}
+.about__content {
+    width: 29.5vw;
+    font-weight: 400;
+    color: #7a7a7a;
+    font-size: 1em;
+    font-family: 'Asap', sans-serif;
+    margin-bottom: 6.5vh;
+}
+.about__link-DmCV {
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 1em;
+    color:#4d4d4d;
+    font-family: 'Asap', sans-serif;
+    text-decoration: none;
+    border: #4d4d4d 1px solid;
+    padding: 20px 55px;
+}
+.about__right-side {
+    width: 50vw;
+    text-align: center;
+}
 
+/*ABOUT SECTION*/
 
 

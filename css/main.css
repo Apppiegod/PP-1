@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header__navigation {
+    display: flex;
+    flex-direction: row;
+    margin-top: 2vh;
+}
+.header__left-side {
+    width: 50vw;
+}
+.header__logotype__image {
+    margin-left: 7.5vw;
+    margin-top: 1.5vh;
+}
+.header__right-side {
+    width: 50vw;
+}
+.header__right-side > .nav-menu {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.header__right-side > .nav-menu > .nav-elem {
+    margin: .5vh 2.3vw;
+    list-style-type: none;
+}
+.header__right-side > .nav-menu > .nav-elem > .nav-link {
+    font-family: 'Asap', sans-serif;
+    text-decoration: none;
+    font-size: 16px;
+    color: #4d4d4d;
+}
+.header__right-side > .nav-menu > .nav-elem > .nav-link:hover {
+    border-bottom: solid 2px #4d4d4d;
+    padding-bottom: 8px;
+}

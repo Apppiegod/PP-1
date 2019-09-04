@@ -141,6 +141,10 @@ body {
     border: #4d4d4d 1px solid;
     padding: 20px 55px;
 }
+.about__link-DmCV:hover {
+    -webkit-box-shadow: 1px 1px 50px 1px #cacaca;
+    box-shadow: 1px 1px 50px 1px #cacaca;
+}
 .about__right-side {
     width: 50vw;
     text-align: center;
@@ -149,3 +153,8 @@ body {
 /*ABOUT SECTION*/
 
 
+/*SERVICES SECTION*/
+
+
+
+/*SERVICES SECTION*/

@@ -165,7 +165,8 @@ body {
     font-size: 2.875em;
     text-transform: uppercase;
     font-family: 'Asap', sans-serif;
-
+    margin: 0;
+    bottom: 0;
 }
 .services__line {
     display: grid;
@@ -192,6 +193,7 @@ body {
 /*MY SKILLS SECTION*/
 .myskills {
     margin: 20vh 0;
+
 }
 .myskills__image__box {
     text-align: center;
@@ -200,3 +202,43 @@ body {
 
 /*MY SKILLS SECTION*/
 
+/*PORTFOLIO SECTION*/
+.portfolio {
+    background-color: #f6f6f6;
+    padding: 15vh 0;
+    text-align: center;
+}
+.portfolio__wrapper {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 30px;
+    margin: 5vh 10vw;
+}
+.portfolio-image {
+    width: 370px;
+    height: 320px;
+}
+.portfolio-image:last-of-type {
+    margin-bottom: 50px;
+}
+.portfolio__wrapper img:hover {
+    -webkit-box-shadow: 1px 1px 50px 1px #cacaca;
+    box-shadow: 1px 1px 50px 1px #cacaca;
+
+}
+.portfolio__link {
+    color:#4d4d4d;
+    font-size: 1em;
+    font-weight: 500;
+    font-family: 'Asap', sans-serif;
+    text-decoration: none;
+    padding: 20px 40px;
+
+}
+.portfolio__link:hover {
+    background-color: #fff;
+    -webkit-box-shadow: 1px 1px 50px 1px #cacaca;
+    box-shadow: 1px 1px 50px 1px #cacaca;
+    border-radius: 40px;
+}
+/*PORTFOLIO SECTION*/

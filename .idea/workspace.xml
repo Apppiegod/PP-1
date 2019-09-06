@@ -20,12 +20,13 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="202">
-                  <caret line="106" selection-start-line="106" selection-end-line="106" />
+                <state relative-caret-position="168">
+                  <caret line="124" column="4" selection-start-line="124" selection-start-column="4" selection-end-line="124" selection-end-column="4" />
                   <folding>
                     <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#span#0;n#h1#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#span#0;n#h1#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#span#0;n#h1#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -38,8 +39,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/assets/css/main.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="237">
-                  <caret line="191" selection-start-line="191" selection-end-line="191" />
+                <state relative-caret-position="220">
+                  <caret line="199" selection-start-line="199" selection-end-line="199" />
                 </state>
               </provider>
             </entry>
@@ -62,7 +63,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feat/services-section" />
+        <entry key="$PROJECT_DIR$" value="feat/myskills-section" />
       </map>
     </option>
   </component>
@@ -174,7 +175,7 @@
       <updated>1567597902241</updated>
       <workItem from="1567597903321" duration="10002000" />
       <workItem from="1567614577247" duration="8640000" />
-      <workItem from="1567769143150" duration="3180000" />
+      <workItem from="1567769143150" duration="4285000" />
     </task>
     <task id="LOCAL-00001" summary="Created Project">
       <created>1567598139959</created>
@@ -246,11 +247,25 @@
       <option name="project" value="LOCAL" />
       <updated>1567771563485</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="feat/body-myskills-html-design">
+      <created>1567772772942</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1567772772942</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat/body-myskills-css-design">
+      <created>1567772849077</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1567772849077</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21822000" />
+    <option name="totallyTimeSpent" value="22927000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -291,7 +306,9 @@
     <MESSAGE value="feat/body-about-css-design" />
     <MESSAGE value="feat/body-services-html-design" />
     <MESSAGE value="feat/body-services-css-design" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat/body-services-css-design" />
+    <MESSAGE value="feat/body-myskills-html-design" />
+    <MESSAGE value="feat/body-myskills-css-design" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat/body-myskills-css-design" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/ьфшт.css" />
@@ -300,19 +317,20 @@
     <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="191" selection-start-line="191" selection-end-line="191" />
+        <state relative-caret-position="220">
+          <caret line="199" selection-start-line="199" selection-end-line="199" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="106" selection-start-line="106" selection-end-line="106" />
+        <state relative-caret-position="168">
+          <caret line="124" column="4" selection-start-line="124" selection-start-column="4" selection-end-line="124" selection-end-column="4" />
           <folding>
             <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#h1#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#h1#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#h1#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

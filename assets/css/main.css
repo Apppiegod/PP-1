@@ -242,3 +242,67 @@ body {
     border-radius: 40px;
 }
 /*PORTFOLIO SECTION*/
+
+
+
+/*TESTIMONIALS SECTION*/
+
+.testimonials {
+    padding: 15vh 0;
+    text-align: center;
+    margin: 0 15vw;
+}
+.comment-photo {
+    padding-right: 30px;
+}
+.comment__box {
+    margin-top: 75px;
+    display: flex;
+    flex-direction: row;
+    border: solid 1px #4d4d4d;
+    padding: 75px 100px;
+    text-align: left;
+}
+.comment-content__title {
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+    font-family: 'Asap', sans-serif;
+    font-weight: 500;
+    font-size:1.875em;
+    color:#212121;
+}
+.comment-content__subtitle {
+    margin: 6px 0 0 0;
+    padding: 0;
+    text-transform: uppercase;
+    font-family: 'Asap', sans-serif;
+    color:#212121;
+    font-weight: 500;
+    font-style: italic;
+    font-size: 0.75em;
+}
+.comment-content__content {
+    font-size: 1em;
+    font-family: 'Asap', sans-serif;
+    color:#b0b0b0;
+    font-weight: 300;
+    text-transform: uppercase;
+
+}
+.comment__box__buttons {
+    position: relative;
+    bottom: 5vh;
+}
+.comment__box__btn {
+    height: 15px;
+    width: 10px;
+    border: solid 1px black;
+    background-color: rgba(0,0,0,0);
+}
+.comment__box__btn:hover, .comment__box__btn:active {
+    background-color: #111;
+}
+
+
+/*TESTIMONIALS SECTION*/

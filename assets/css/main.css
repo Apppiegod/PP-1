@@ -189,7 +189,12 @@ body {
 
 
 /*MY SKILLS SECTION*/
-
-
+.myskills {
+    margin: 20vh 0;
+}
+.myskills__image__box {
+    text-align: center;
+    margin-top: 10vh;
+}
 
 /*MY SKILLS SECTION*/

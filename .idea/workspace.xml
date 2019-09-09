@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a08bfcfb-4fdd-4f7a-8d5e-07117b576f30" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -19,8 +20,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="83">
-                  <caret line="143" column="286" selection-start-line="143" selection-start-column="286" selection-end-line="143" selection-end-column="286" />
+                <state relative-caret-position="253">
+                  <caret line="183" column="45" lean-forward="true" selection-start-line="183" selection-start-column="45" selection-end-line="183" selection-end-column="45" />
                   <folding>
                     <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#span#0;n#h1#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -39,8 +40,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/assets/css/main.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
-                  <caret line="282" column="17" lean-forward="true" selection-start-line="282" selection-start-column="17" selection-end-line="282" selection-end-column="17" />
+                <state relative-caret-position="237">
+                  <caret line="309" selection-start-line="309" selection-end-line="309" />
                 </state>
               </provider>
             </entry>
@@ -82,6 +83,7 @@
         <option value="$PROJECT_DIR$/assets/js.js" />
         <option value="$PROJECT_DIR$/.gitingore" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/assets/js/main.js" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
@@ -101,6 +103,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,31 +116,10 @@
               <item name="PP-1" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PP-1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PP-1" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PP-1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PP-1" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="body-about" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PP-1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PP-1" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="header" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -181,7 +163,9 @@
       <updated>1567597902241</updated>
       <workItem from="1567597903321" duration="10002000" />
       <workItem from="1567614577247" duration="8640000" />
-      <workItem from="1567769143150" duration="9910000" />
+      <workItem from="1567769143150" duration="11342000" />
+      <workItem from="1567948722743" duration="719000" />
+      <workItem from="1568062000172" duration="487000" />
     </task>
     <task id="LOCAL-00001" summary="Created Project">
       <created>1567598139959</created>
@@ -288,17 +272,24 @@
       <option name="project" value="LOCAL" />
       <updated>1567781255626</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="feat/body-testimonials-css-design">
+      <created>1567782848503</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1567782848503</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28552000" />
+    <option name="totallyTimeSpent" value="31190000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26308724" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -338,24 +329,28 @@
     <MESSAGE value="feat/body-portfolio-html-design" />
     <MESSAGE value="feat/body-portfolio-css-design" />
     <MESSAGE value="feat/body-testimonials-html-design" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat/body-testimonials-html-design" />
+    <MESSAGE value="feat/body-testimonials-css-design" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat/body-testimonials-css-design" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/ьфшт.css" />
     <entry file="file://$PROJECT_DIR$/assets/js.js" />
     <entry file="file://$PROJECT_DIR$/.gitingore" />
     <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="282" column="17" lean-forward="true" selection-start-line="282" selection-start-column="17" selection-end-line="282" selection-end-column="17" />
+        <state relative-caret-position="237">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="143" column="286" selection-start-line="143" selection-start-column="286" selection-end-line="143" selection-end-column="286" />
+        <state relative-caret-position="253">
+          <caret line="183" column="45" lean-forward="true" selection-start-line="183" selection-start-column="45" selection-end-line="183" selection-end-column="45" />
           <folding>
             <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#h1#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />

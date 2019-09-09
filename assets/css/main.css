@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    overflow-x: hidden;
 }
 /*NAVIGATION */
 .header {
@@ -339,5 +340,71 @@ body {
 
 
 /*FOOTER*/
-
+.footer {
+    background-image: url(../images/footer/footer-background.png);
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 100px;
+}
+.footer .block__title {
+    color:#fff;
+}
+.footer__form textarea {
+    display: block;
+    margin: 5vh 25vw;
+    width: 49.6vw;
+    height: 25vh;
+    padding: 20px 5px;
+    resize: none;
+}
+.footer__form input {
+    padding: 18px 13vw 18px 12px;
+    margin: 0 12px;
+}
+.footer__form {
+    text-align: center;
+    margin-top: 50px;
+}
+.footer__submit-btn {
+    background-color: #fff;
+    color:#4d4d4d ;
+    font-size:1em;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-family:'Asap', sans-serif;
+    border: none;
+    padding: 12px 24px;
+}
+.footer__up-side__btn {
+    position: relative;
+    left: 45vw;
+    bottom: 10vh;
+    font-weight: 700;
+    color:#4d4d4d;
+    background-color: #fff;
+    border: none;
+    font-size: 1.25em;
+    padding: 10px 12px;
+}
+.footer__down-side__elem {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0 12.5vw;
+}
+.footer__media i {
+    padding: 8px 10px;
+    background-color: #fff;
+}
+.footer__copyrights {
+    position: relative;
+    left: 20vw;
+    color:#fff;
+    font-size: 1em;
+    font-family: 'Asap', sans-serif;
+    top: 2px;
+}
 /*FOOTER*/

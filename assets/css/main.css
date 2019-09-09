@@ -307,7 +307,32 @@ body {
 
 /*TESTIMONIALS SECTION*/
 /*STATISTIC SECTION*/
+.statistic {
+    background-color: #f6f6f6;
+    padding: 10vh 15vw;
+    margin-bottom: 100px;
+}
+.statistic__line {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 25px;
+    text-align: center;
 
+}
+.statistic__box img {
+    width: 75px;
+    height: 85px;
+}
+.statistic__count , .statistic__title {
+    color:#212121;
+    font-family: 'Asap', sans-serif;
+    font-size: 1.375em;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+.statistic__count {
+    font-weight: 700;
+}
 
 
 /*STATISTIC SECTION*/
